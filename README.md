@@ -6,9 +6,7 @@
 
 ## 📚 Sobre mí
 
-Apasionado por la enseñanza de tecnología y el desarrollo de software.
-Enfocado en la formación de estudiantes con bases sólidas en programación, arquitectura de software y desarrollo de soluciones reales.
-
+Apasionado por el aprendizaje de tecnología y el desarrollo de software.
 \---
 
 ## 🧠 Áreas de aprendizaje
